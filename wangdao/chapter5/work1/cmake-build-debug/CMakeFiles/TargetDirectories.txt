@@ -1,3 +1,0 @@
-E:/CLionProjects/wangdao/chapter5/work1/cmake-build-debug/CMakeFiles/work1.dir
-E:/CLionProjects/wangdao/chapter5/work1/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/CLionProjects/wangdao/chapter5/work1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
