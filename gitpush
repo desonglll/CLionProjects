@@ -1,0 +1,5 @@
+lazygit
+git push -u github main
+echo "git push -u github main"
+git push gitee main
+echo "git push gitee main"
