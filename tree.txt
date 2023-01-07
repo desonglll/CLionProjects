@@ -1,0 +1,180 @@
+.
+├── tree
+└── wangdao
+    ├── chapter2
+    │   ├── work1
+    │   │   ├── CMakeLists.txt
+    │   │   └── main.c
+    │   ├── work2
+    │   │   ├── CMakeLists.txt
+    │   │   └── main.c
+    │   └── work3
+    │       ├── CMakeLists.txt
+    │       ├── Description.md
+    │       └── main.c
+    ├── chapter3
+    │   ├── work1
+    │   │   ├── CMakeLists.txt
+    │   │   ├── Description.md
+    │   │   └── main.c
+    │   └── work2
+    │       ├── CMakeLists.txt
+    │       ├── Description.md
+    │       └── main.c
+    ├── chapter4
+    │   ├── work1
+    │   │   ├── CMakeLists.txt
+    │   │   ├── Description.md
+    │   │   └── main.c
+    │   ├── work2
+    │   │   ├── CMakeLists.txt
+    │   │   ├── Description.md
+    │   │   └── main.c
+    │   └── work3
+    │       ├── CMakeLists.txt
+    │       ├── Description.md
+    │       └── main.c
+    ├── chapter5
+    │   ├── work1
+    │   │   ├── CMakeLists.txt
+    │   │   ├── Description.md
+    │   │   └── main.c
+    │   └── work2
+    │       ├── CMakeLists.txt
+    │       ├── Description.md
+    │       ├── cmake-build-debug
+    │       │   ├── CMakeCache.txt
+    │       │   ├── CMakeFiles
+    │       │   │   ├── 3.21.1
+    │       │   │   │   ├── CMakeCCompiler.cmake
+    │       │   │   │   ├── CMakeDetermineCompilerABI_C.bin
+    │       │   │   │   ├── CMakeSystem.cmake
+    │       │   │   │   └── CompilerIdC
+    │       │   │   │       ├── CMakeCCompilerId.c
+    │       │   │   │       ├── CMakeCCompilerId.o
+    │       │   │   │       └── tmp
+    │       │   │   ├── CMakeDirectoryInformation.cmake
+    │       │   │   ├── CMakeError.log
+    │       │   │   ├── CMakeOutput.log
+    │       │   │   ├── CMakeTmp
+    │       │   │   ├── Makefile.cmake
+    │       │   │   ├── Makefile2
+    │       │   │   ├── TargetDirectories.txt
+    │       │   │   ├── clion-environment.txt
+    │       │   │   ├── clion-log.txt
+    │       │   │   ├── cmake.check_cache
+    │       │   │   ├── progress.marks
+    │       │   │   └── work2.dir
+    │       │   │       ├── DependInfo.cmake
+    │       │   │       ├── build.make
+    │       │   │       ├── cmake_clean.cmake
+    │       │   │       ├── compiler_depend.make
+    │       │   │       ├── compiler_depend.ts
+    │       │   │       ├── depend.make
+    │       │   │       ├── flags.make
+    │       │   │       ├── link.txt
+    │       │   │       └── progress.make
+    │       │   ├── Makefile
+    │       │   ├── Testing
+    │       │   │   └── Temporary
+    │       │   │       └── LastTest.log
+    │       │   ├── cmake_install.cmake
+    │       │   └── work2.cbp
+    │       └── main.c
+    ├── chapter6
+    │   ├── work1
+    │   │   ├── CMakeLists.txt
+    │   │   ├── Description.md
+    │   │   ├── cmake-build-debug
+    │   │   │   ├── CMakeCache.txt
+    │   │   │   ├── CMakeFiles
+    │   │   │   │   ├── 3.21.1
+    │   │   │   │   │   ├── CMakeCCompiler.cmake
+    │   │   │   │   │   ├── CMakeDetermineCompilerABI_C.bin
+    │   │   │   │   │   ├── CMakeSystem.cmake
+    │   │   │   │   │   └── CompilerIdC
+    │   │   │   │   │       ├── CMakeCCompilerId.c
+    │   │   │   │   │       ├── CMakeCCompilerId.o
+    │   │   │   │   │       └── tmp
+    │   │   │   │   ├── CMakeError.log
+    │   │   │   │   ├── CMakeOutput.log
+    │   │   │   │   ├── CMakeTmp
+    │   │   │   │   ├── TargetDirectories.txt
+    │   │   │   │   ├── clion-environment.txt
+    │   │   │   │   ├── clion-log.txt
+    │   │   │   │   ├── cmake.check_cache
+    │   │   │   │   ├── rules.ninja
+    │   │   │   │   └── work1.dir
+    │   │   │   │       └── main.c.o
+    │   │   │   ├── Testing
+    │   │   │   │   └── Temporary
+    │   │   │   │       └── LastTest.log
+    │   │   │   ├── build.ninja
+    │   │   │   ├── cmake_install.cmake
+    │   │   │   └── work1
+    │   │   └── main.c
+    │   └── work2
+    │       ├── CMakeLists.txt
+    │       ├── Description.md
+    │       ├── cmake-build-debug
+    │       │   ├── CMakeCache.txt
+    │       │   ├── CMakeFiles
+    │       │   │   ├── 3.21.1
+    │       │   │   │   ├── CMakeCCompiler.cmake
+    │       │   │   │   ├── CMakeDetermineCompilerABI_C.bin
+    │       │   │   │   ├── CMakeSystem.cmake
+    │       │   │   │   └── CompilerIdC
+    │       │   │   │       ├── CMakeCCompilerId.c
+    │       │   │   │       ├── CMakeCCompilerId.o
+    │       │   │   │       └── tmp
+    │       │   │   ├── CMakeError.log
+    │       │   │   ├── CMakeOutput.log
+    │       │   │   ├── CMakeTmp
+    │       │   │   ├── TargetDirectories.txt
+    │       │   │   ├── clion-environment.txt
+    │       │   │   ├── clion-log.txt
+    │       │   │   ├── cmake.check_cache
+    │       │   │   ├── rules.ninja
+    │       │   │   └── work2.dir
+    │       │   │       └── main.c.o
+    │       │   ├── Testing
+    │       │   │   └── Temporary
+    │       │   │       └── LastTest.log
+    │       │   ├── build.ninja
+    │       │   ├── cmake_install.cmake
+    │       │   └── work2
+    │       └── main.c
+    └── chapter7
+        └── work1
+            ├── CMakeLists.txt
+            ├── Description.md
+            ├── cmake-build-debug
+            │   ├── CMakeCache.txt
+            │   ├── CMakeFiles
+            │   │   ├── 3.21.1
+            │   │   │   ├── CMakeCCompiler.cmake
+            │   │   │   ├── CMakeDetermineCompilerABI_C.bin
+            │   │   │   ├── CMakeSystem.cmake
+            │   │   │   └── CompilerIdC
+            │   │   │       ├── CMakeCCompilerId.c
+            │   │   │       ├── CMakeCCompilerId.o
+            │   │   │       └── tmp
+            │   │   ├── CMakeError.log
+            │   │   ├── CMakeOutput.log
+            │   │   ├── CMakeTmp
+            │   │   ├── TargetDirectories.txt
+            │   │   ├── clion-environment.txt
+            │   │   ├── clion-log.txt
+            │   │   ├── cmake.check_cache
+            │   │   ├── rules.ninja
+            │   │   └── work1.dir
+            │   │       └── main.c.o
+            │   ├── Testing
+            │   │   └── Temporary
+            │   │       └── LastTest.log
+            │   ├── build.ninja
+            │   ├── cmake_install.cmake
+            │   └── work1
+            └── main.c
+
+56 directories, 121 files
